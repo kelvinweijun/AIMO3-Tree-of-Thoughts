@@ -1,6 +1,8 @@
 # AIMO-3 Tree of Thoughts Solver
 
-A competitive mathematics problem solver built for the [AI Mathematical Olympiad (AIMO) Progress Prize 3](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3) on Kaggle. It combines a **Tree of Thoughts** (ToT) reasoning framework with a locally-served large language model (vLLM) and sandboxed Python execution to tackle IMO-level problems.
+A competitive mathematics problem solver built for the [AI Mathematical Olympiad (AIMO) Progress Prize 3](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3) on Kaggle. It combines a **Tree of Thoughts** (ToT) reasoning framework with a locally-served large language model (vLLM) and sandboxed Python execution to tackle IMO-level problems, which scored 33/50 in the public submission.
+
+Link to Kaggle notebook submitted for the competition: https://www.kaggle.com/code/varianceofx/gpt-oss-120b-tot
 
 ---
 
